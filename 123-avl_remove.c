@@ -51,9 +51,9 @@ int successor(bst_t *node)
 }
 /**
  * remove_type - function that deletes a node depending of its children
- * 
+ *
  * @root: node to delete
- * 
+ *
  * Return: if it has no children  0,or other value if it has
  */
 int remove_type(bst_t *root)
